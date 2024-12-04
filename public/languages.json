@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "language_name": "Turkish",
+        "tagline": "A language with roots in Central Asia spoken by over 75 million people.",
+        "image": "https://i.ibb.co/QJH3v6W/Turkish.webp"
+    },
+    {
+        "id": 2,
+        "language_name": "Italian",
+        "tagline": "The language of music, art, and culinary delight.",
+        "image": "https://i.ibb.co/d4sKH7F/Italian.webp"
+    },
+    {
+        "id": 3,
+        "language_name": "Korean",
+        "tagline": "Spoken by more than 80 million people, featuring its own unique script, Hangul.",
+        "image": "https://i.ibb.co/cYN8C4n/Korean.webp"
+    },
+    {
+        "id": 4,
+        "language_name": "Russian",
+        "tagline": "One of the six official language of the United Nations.",
+        "image": "https://i.ibb.co/T4g67M9/Russian.webp"
+    },
+    {
+        "id": 5,
+        "language_name": "Portuguese",
+        "tagline": "The sixth most spoken language in the world, with roots in Iberian Peninsula.",
+        "image": "https://i.ibb.co/sQFgN9h/Portuguese.webp"
+    },
+    {
+        "id": 6,
+        "language_name": "Hindi",
+        "tagline": "The lingua franca of the Indian subcontinent and beyond.",
+        "image": "https://i.ibb.co/VHWSGmH/Hindi.webp"
+    },
+    {
+        "id": 7,
+        "language_name": "Arabic",
+        "tagline": "A central Semitic language that first emerged in the 1st to 4th centuries CE.",
+        "image": "https://i.ibb.co/0ZBNJ6b/Arabic.webp"
+    },
+    {
+        "id": 8,
+        "language_name": "Japanese",
+        "tagline": "Known for its complex writing system blending three scripts.",
+        "image": "https://i.ibb.co/W0986V5/Japanese.webp"
+    },
+    {
+        "id": 9,
+        "language_name": "German",
+        "tagline": "The most widely spoken native language in Europe.",
+        "image": "https://i.ibb.co/cJPsLXX/German.webp"
+    },
+    {
+        "id": 10,
+        "language_name": "French",
+        "tagline": "An official language in 29 countries across multiple continents.",
+        "image": "https://i.ibb.co/C6hRwSY/French.webp"
+    },
+    {
+        "id": 11,
+        "language_name": "Mandarin Chinese",
+        "tagline": "The most spoken language in the world by number of native speakers.",
+        "image": "https://i.ibb.co/hfC8LtC/Mandarin-Chinese.webp"
+    },
+    {
+        "id": 12,
+        "language_name": "Spanish",
+        "tagline": "The second most spoken language by number of native speakers globally.",
+        "image": "https://i.ibb.co/yXxC7b9/Spanish.webp"
+    }
+]
